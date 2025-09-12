@@ -9,7 +9,7 @@
 <!-------------------------- Website -->
 Website
 ```
-google: 
+Google NotebookLM : https://notebooklm.google
 ```
 <!-------------------------- Video -->
 Video
