@@ -10,6 +10,7 @@
 Website
 ```
 Google NotebookLM : https://notebooklm.google
+Youtube Subtitles : https://downsub.com/
 ```
 <!-------------------------- Video -->
 Video
